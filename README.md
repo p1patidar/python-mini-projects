@@ -100,6 +100,4 @@ Or explore interactively in Jupyter.
 
 You’re a self-learner, career switcher, or preparing for Python interviews and want real, readable, practical examples.
 
----
 
-Let me know if you want this **converted into a README file** right now (`README.md`) or want help setting it up in your project folder.
